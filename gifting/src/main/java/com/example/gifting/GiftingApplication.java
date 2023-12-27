@@ -1,13 +1,13 @@
-package com.giftingsite.giftingsite;
+package com.example.gifting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GiftingsiteApplication {
+public class GiftingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GiftingsiteApplication.class, args);
+		SpringApplication.run(GiftingApplication.class, args);
 	}
 
 }
